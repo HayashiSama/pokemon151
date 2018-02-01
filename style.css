@@ -1,3 +1,30 @@
 .pokemon{
 	display:inline-block;
+	vertical-align: top;
+	margin:0px;
+	padding:0px;
+}
+#pokedex{
+	border:10px solid red;
+	width:200px;
+	height:600px;
+	display:inline-block;
+	vertical-align: top;
+	text-align: center;
+}
+#pokemonholder
+{
+	display: inline-block;
+	vertical-align: top;
+	width:1000px;
+}
+li
+{
+	text-align: left;
+}
+
+#deximg
+{
+	width:100px;
+	height:100px;
 }
